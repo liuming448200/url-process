@@ -1,6 +1,6 @@
 {
   "name": "url-process",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "process URL",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
